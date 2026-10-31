@@ -300,11 +300,11 @@ rtt min/avg/max/mdev = 316.439/340.648/399.207/33.930 ms
 
 <div align="center">
 
-[![Watch the lab setup demo](01-kali-desktop.png)](week1-lab-setup-demo.mp4)
+[![Watch the lab setup demo](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)
 
-[![Watch Demo](https://img.shields.io/badge/▶_Watch-Project_Demo_Video-red?style=for-the-badge)](week1-lab-setup-demo.mp4)
+[![Watch Demo](https://img.shields.io/badge/▶_Watch-Project_Demo_Video-red?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)
 
-**Direct link:** [week1-lab-setup-demo.mp4](week1-lab-setup-demo.mp4)
+**Direct link:** [week1-lab-setup-demo.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)
 
 </div>
 
