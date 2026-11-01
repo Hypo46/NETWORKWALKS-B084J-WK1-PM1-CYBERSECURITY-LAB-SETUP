@@ -236,7 +236,7 @@ After saving the configuration, the setup was checked from the Kali terminal wit
 
 <div align="center">
 
-![Kali Linux IP Configuration and Connectivity Test](04-kali-connectivity-test%20ip%20config.png)
+![Kali Linux IP Configuration and Connectivity Test](04-kali-connectivity-test ip config.png)
 
 *Figure 6 – `04-kali-connectivity-test ip config.png`: `ip addr` and `ifconfig` confirm `eth0` = 10.0.0.2/24, and `ping -c 4 networkwalks.com` shows 4 packets transmitted, 4 received, 0% packet loss.*
 
