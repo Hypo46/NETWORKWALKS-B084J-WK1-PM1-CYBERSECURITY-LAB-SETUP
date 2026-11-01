@@ -186,7 +186,7 @@ A dedicated NAT network was configured in VMware's **Virtual Network Editor**. T
 
 <div align="center">
 
-![VMware Virtual Network Editor – NAT Settings for vmnet2](06-vmware-network-settings.png)
+![VMware Virtual Network Editor – NAT Settings for vmnet2](05-vmware-network-settings.png)
 
 *Figure 3 – `06-vmware-network-settings.png`: NAT Settings for vmnet2 – subnet 10.0.0.0/255.255.255.0 with gateway 10.0.0.1.*
 
@@ -198,7 +198,7 @@ In the Kali VM's **Virtual Machine Settings → Hardware → Network Adapter**, 
 
 <div align="center">
 
-![VMware VM Settings – Network Adapter](07-vmware-vm-adapter-settings.png)
+![VMware VM Settings – Network Adapter](06-vmware-vm-adapter-settings.png)
 
 *Figure 4 – `07-vmware-vm-adapter-settings.png`: Kali VM network adapter attached to the custom virtual network.*
 
