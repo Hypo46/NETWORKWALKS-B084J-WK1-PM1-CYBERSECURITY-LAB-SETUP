@@ -236,7 +236,7 @@ After saving the configuration, the setup was checked from the Kali terminal wit
 
 <div align="center">
 
-![Kali Linux IP Configuration and Connectivity Test](04-kali-connectivity-test ip config.png)
+![Kali Linux IP Configuration and Connectivity Test](04-kali-connectivity-test%20ip%20config.png)
 
 *Figure 6 – `04-kali-connectivity-test ip config.png`: `ip addr` and `ifconfig` confirm `eth0` = 10.0.0.2/24, and `ping -c 4 networkwalks.com` shows 4 packets transmitted, 4 received, 0% packet loss.*
 
@@ -299,10 +299,10 @@ rtt min/avg/max/mdev = 316.439/340.648/399.207/33.930 ms
 ## 🎬 Project Demonstration Video
 
 <div align="center">
-  
+
 [![Watch Demo](https://img.shields.io/badge/▶_Watch-Project_Demo_Video-red?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)
 
-**Direct link:** [week1-lab-setup-demo.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)
+**[▶ Watch the full project demonstration on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522351531812089856/)**
 
 </div>
 
@@ -315,7 +315,7 @@ The video (about 2 minutes 45 seconds) demonstrates the completed lab setup, inc
 - Firefox loading Google and a web search
 - Ping tests in the Kali terminal
 
-> 📝 **Note:** GitHub does not reliably play MP4 files inline from a README in every view. Click the preview image, the badge or the direct link above to open `week1-lab-setup-demo.mp4` in the repository file viewer, where you can also download it.
+> 📝 **Note:** The demonstration video is hosted on LinkedIn. Click the badge or the link above to open the post and watch the video.
 
 ---
 
